@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f06d2c298655974b9e76112768deb31, type: 3}
+  m_Name: NPCLast
+  m_EditorClassIdentifier: 
+  EndedDialogo: 1
+  FinalConversation: {fileID: 0}
+  speakerLeft: {fileID: 11400000, guid: cdc82d7ce127d8740bc5973abd620e6c, type: 2}
+  speakerRight: {fileID: 11400000, guid: 8a708acba45c48e4793b8f59674d114a, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 8a708acba45c48e4793b8f59674d114a, type: 2}
+    text: This is as close as we can get to the center.
+  - character: {fileID: 11400000, guid: 8a708acba45c48e4793b8f59674d114a, type: 2}
+    text: Below us there's just a long fall.
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}
