@@ -17,9 +17,9 @@
 Dentro del repositorio:
 
 ```bash
-1. Buscar carpeta builds
+1. Buscar carpeta Builds
 2. Descargar carpeta LostTearDemo 
-3. Ejecutar LostTearDemo.exe
+3. Ejecutar Lost tear.exe
 ```
 
 
@@ -61,6 +61,7 @@ Directorios importantes:
 | Directorio | Descripción |
 | ---------- | ---------- |
 | Dialogue System | Scriptable objects utilizados en sistema de dialogo. |
+| Builds | Archivos ejecutables del juego. |
 | Prefabs | Contiene prefabs que se reutilizan en el juego, plataformas, elementos interactuables. |
 | Scenes | Escenas del proyecto. |
 | Scripts | Archivos de código. |
