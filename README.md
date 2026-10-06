@@ -2,7 +2,7 @@
 
 ## Resumen
 
-* Demo de videojuego platformer 2D en Unity.
+* Demo de videojuego platformer 2D en Unity deasrrollado en 2024.
 * [Prototipo jugable](https://zzyned.itch.io/lost-tear)
 
 <img src="images/game_img_1.png" alt="game_img_1.png" width="400"> <img src="images/game_img_2.png" alt="game_img_2.png" width="400">
@@ -17,8 +17,8 @@
 Dentro del repositorio:
 
 ```bash
-1. Buscar carpeta Builds
-2. Descargar carpeta LostTearDemo 
+1. Entrar a link en itch.io https://zzyned.itch.io/lost-tear
+2. Apretar botón "Download Now"
 3. Ejecutar Lost tear.exe
 ```
 
@@ -49,7 +49,6 @@ Lost Tear/
 │   ├─────── Prefabs/
 │   ├─────── ...
 │   └── ...
-├── Builds/
 ├── Packages/
 ├── ProjectSettings/
 ├── .gitignore
@@ -61,7 +60,6 @@ Directorios importantes:
 | Directorio | Descripción |
 | ---------- | ---------- |
 | Dialogue System | Scriptable objects utilizados en sistema de dialogo. |
-| Builds | Archivos ejecutables del juego. |
 | Prefabs | Contiene prefabs que se reutilizan en el juego, plataformas, elementos interactuables. |
 | Scenes | Escenas del proyecto. |
 | Scripts | Archivos de código. |
