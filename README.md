@@ -1,5 +1,5 @@
 # Lost Tear
-<img src="images/title.jpg" alt="title.png" width="500">
+<img src="images/title.png" alt="title.png" width="500">
 > Prototipo de libro físico con realidad aumentada.
 
 ## Resumen
